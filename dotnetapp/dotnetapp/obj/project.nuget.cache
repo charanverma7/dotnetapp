@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L4lyr22iZqv88FPTEGy2T9GSGoYthYfacvkv8AK8BI2nqyZF+kRHGOPYCNzFfCTQUAEUkuwDvfi+x5Oy7OBP+A==",
+  "success": true,
+  "projectFilePath": "C:\\AWS\\dotnetapp\\dotnetapp\\dotnetapp\\dotnetapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chara\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
